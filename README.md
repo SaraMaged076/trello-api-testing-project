@@ -1,7 +1,7 @@
 
 # Trello API Automation Testing Project
 
-This project demonstrates end-to-end API testing using Postman.
+This project demonstrates an end-to-end API testing project based on Trello APIs, focusing on simulating real-world workflows and ensuring reliable automation practices.
 
 ## Features:
 - Automated CRUD operations (Create → Read → Update → Delete) for (Boards, Lists, Cards, Checklists)
