@@ -11,9 +11,17 @@ This project demonstrates an end-to-end API testing project based on Trello APIs
 - Negative testing for different scenarios (like 404)
 - Designed a test execution schedule to control request dependencies
 
+
+
+## Trello Cloud REST APIs
+
+- Official API Documentation:
+https://developer.atlassian.com/cloud/trello/rest/api-group-actions/
+
 ## Tools:
-- Postman
-- Trello REST API
+- Postman : API testing and automation
+- Trello REST API : Trello Cloud APIs
+- JavaScript : Postman test scripts and pre-request scripts
 
 ## How to Run:
 1. Import the collection JSON into Postman
